@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Tosa",
+    "valor": 20,
+    "descricao": "Corte de pelos",
+    "fotoURL": "/public/images/tosa.svg"
+  },
+  {
+    "id": 2,
+    "nome": "Banho",
+    "valor": 20,
+    "descricao": "Corte de pelos",
+    "fotoURL": "/public/images/tosa.svg"
+  },
+  {
+    "id": 3,
+    "nome": "Corte de unha",
+    "valor": 20,
+    "descricao": "Corte de pelos",
+    "fotoURL": "/public/images/tosa.svg"
+  }
+]
